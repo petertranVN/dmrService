@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingnalrClient", "SingnalrClient\SingnalrClient.csproj", "{6A2842A7-1E57-4C30-A582-E0B72564B098}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalrServer", "SignalrServer\SignalrServer.csproj", "{049A0AC8-9105-4685-96A1-9C7C8AA8219A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scalingmachine", "scalingmachine\scalingmachine.csproj", "{61BE7495-6F22-4222-97C9-1F8338E4CDDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bigcalingmachine", "bigcalingmachine\bigcalingmachine.csproj", "{0E03E79B-26B5-4241-A917-EACC4AB9E448}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScalingMachineService", "ScalingMachineService\ScalingMachineService.csproj", "{07EFA26A-E8DC-4050-8CEC-B4873387BFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoService", "AutoService\AutoService.csproj", "{4C5032CF-3F18-4770-B42C-F564C6CC86C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2842A7-1E57-4C30-A582-E0B72564B098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2842A7-1E57-4C30-A582-E0B72564B098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2842A7-1E57-4C30-A582-E0B72564B098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2842A7-1E57-4C30-A582-E0B72564B098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049A0AC8-9105-4685-96A1-9C7C8AA8219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049A0AC8-9105-4685-96A1-9C7C8AA8219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049A0AC8-9105-4685-96A1-9C7C8AA8219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049A0AC8-9105-4685-96A1-9C7C8AA8219A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BE7495-6F22-4222-97C9-1F8338E4CDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BE7495-6F22-4222-97C9-1F8338E4CDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BE7495-6F22-4222-97C9-1F8338E4CDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BE7495-6F22-4222-97C9-1F8338E4CDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E03E79B-26B5-4241-A917-EACC4AB9E448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E03E79B-26B5-4241-A917-EACC4AB9E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E03E79B-26B5-4241-A917-EACC4AB9E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E03E79B-26B5-4241-A917-EACC4AB9E448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EFA26A-E8DC-4050-8CEC-B4873387BFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EFA26A-E8DC-4050-8CEC-B4873387BFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EFA26A-E8DC-4050-8CEC-B4873387BFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EFA26A-E8DC-4050-8CEC-B4873387BFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5032CF-3F18-4770-B42C-F564C6CC86C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5032CF-3F18-4770-B42C-F564C6CC86C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5032CF-3F18-4770-B42C-F564C6CC86C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5032CF-3F18-4770-B42C-F564C6CC86C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B7F11F-EC41-4641-A9BA-92EA3F557F6D}
+	EndGlobalSection
+EndGlobal
